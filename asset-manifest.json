@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Emojipedia/static/css/main.0295d79e.chunk.css",
+    "main.js": "/Emojipedia/static/js/main.d04749f5.chunk.js",
+    "main.js.map": "/Emojipedia/static/js/main.d04749f5.chunk.js.map",
+    "runtime-main.js": "/Emojipedia/static/js/runtime-main.ec9ac8a3.js",
+    "runtime-main.js.map": "/Emojipedia/static/js/runtime-main.ec9ac8a3.js.map",
+    "static/css/2.383c0125.chunk.css": "/Emojipedia/static/css/2.383c0125.chunk.css",
+    "static/js/2.6325f45c.chunk.js": "/Emojipedia/static/js/2.6325f45c.chunk.js",
+    "static/js/2.6325f45c.chunk.js.map": "/Emojipedia/static/js/2.6325f45c.chunk.js.map",
+    "index.html": "/Emojipedia/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/Emojipedia/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.0295d79e.chunk.css.map": "/Emojipedia/static/css/main.0295d79e.chunk.css.map",
+    "static/js/2.6325f45c.chunk.js.LICENSE.txt": "/Emojipedia/static/js/2.6325f45c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec9ac8a3.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.6325f45c.chunk.js",
+    "static/css/main.0295d79e.chunk.css",
+    "static/js/main.d04749f5.chunk.js"
+  ]
+}
